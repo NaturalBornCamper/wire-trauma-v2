@@ -4,7 +4,7 @@ Contains libraries for the web app [darw.io](https://www.drawio.com/) to create 
 
 ## Download
 
-Download the latest version on the [release page](https://github.com/NaturalBornCamper/wire-trauma-v2/releases) or use the [direct link](https://github.com/NaturalBornCamper/wire-trauma-v2/releases/download/2.0.0/wire-trauma-v2.0.0.zip) (latest release)
+Download the latest version on the [release page](https://github.com/NaturalBornCamper/wire-trauma-v2/releases) or use the [direct link](https://github.com/NaturalBornCamper/wire-trauma-v2/releases/download/2.0.1/wire-trauma-v2.0.1.zip) (latest release)
 
 ## Usage
 
