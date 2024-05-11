@@ -1,35 +1,20 @@
-# Libraries of wiring components for draw.io ([diagrams.net](https://www.diagrams.net/)) for the game Barotrauma
-Contains XML files (libraries) for the software draw.io to be able to create wiring schematics for the game [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/).
+# Draw.io libraries for Barotrauma circuits schematics
+
+Contains libraries for the web app [darw.io](https://www.drawio.com/) to create wiring schematics for the game [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/). Fork from the original [library](https://github.com/Thoupler/wire-trauma) by Thoupler, updated to contain new nodes, wires, latest game changes and several fixes.
 
 ## Download
 
-Link: [v1.0.1 draw.io libs for Barotrauma](https://github.com/Thoupler/wire-trauma/releases/download/v1.0.1/v1.0.1.draw.io.barotrauma.libs.zip) (latest release)
+Download the latest version on the [release page](https://github.com/NaturalBornCamper/wire-trauma-v2/releases) or use the [direct link](https://github.com/NaturalBornCamper/wire-trauma-v2/releases/download/2.0.0/wire-trauma-v2.0.0.zip) (latest release)
 
-## How to use
+## Usage
 
 Basic Usage of draw.io: https://www.youtube.com/watch?v=Z0D96ZikMkc
 
-Importing libraries: https://www.drawio.com/blog/custom-libraries
+Importing the libraries into draw.io: https://www.drawio.com/blog/custom-libraries
 
-Exporting or importing projects: https://drawio-app.com/blog/draw-io-training-exercise-10-export-and-import/
+To connect the different components use either:
 
-Line Jumping: https://drawio-app.com/blog/draw-io-now-supports-line-jumps/
-
-Connector styles: https://drawio-app.com/blog/connector-styles-and-animations-in-draw-io/
-
-## Useful tips & shortcuts
-
-* You can import the needed libraries via drag & drop into to your currently open project
-* SHIFT + ALT + T opens up the tool tip editor which allows to add a tool tip. Maybe can be used to add comments or notes (only possible if element is editable -> see element properties)
-* The S key adds a note where you can add notes or comments
-* The X key allows you to draw freehand lines. It can be toggled off by pressing the X key again (or the ESC key)
-
-## An Example
-
-![Barotrauma v1 0 9 - Automatic Reactor v1 0](https://user-images.githubusercontent.com/3156901/236705900-75b2706c-eab5-4d56-8df7-982e81017b4f.png)
-
-Link to the project: [Barotrauma v1.0.9 - Automatic Reactor v1.0.drawio.zip](https://github.com/Thoupler/wire-trauma/files/11416143/Barotrauma.v1.0.9.-.Automatic.Reactor.v1.0.drawio.zip)
-
-__Don't hesitate to ask questions or give feedback! :D__
-
-And now: Create your mighty wirings!
+ - The "Wires" category included, by dragging both ends to connect wherever you want for straight lines in which you can add multiple angles like so:
+![image](https://github.com/Thoupler/wire-trauma/assets/1697306/e3e4de89-c62f-4260-9bc4-b679a81bab8a)
+ - By simply dragging from a connector to another, if you want more rounded wires that you can customize or make it look like the circuit box connections like so:
+![image](https://github.com/Thoupler/wire-trauma/assets/1697306/8c50eb4a-6a1e-43f3-94d3-d4278fd63e82)
