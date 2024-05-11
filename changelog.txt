@@ -1,5 +1,9 @@
 draw.io libs for Barotrauma (v2) - changelog
 
+v2.0.1
+
+- Added connectors on other sides for circuit boxes inputs/outputs
+
 v2.0.0
 
 - Inital forked release
