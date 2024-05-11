@@ -1,18 +1,22 @@
-draw.io libs for Barotrauma - changelog
+draw.io libs for Barotrauma (v2) - changelog
 
-v1.0.1
+v2.0.0
 
-- dark mode support added
-- changed colors of medical fabricator component so it suits better for dark mode
-- changed colors of light component/emergency light
-- changed the background of the info box for the variables to blue
-- set the color of the text inside the info box to black so it will not be changed when switching to dark mode
-- unlocked the background box (blue) for variables (e.g. color changes are now possible)
-- added the icon for the oscillator
-- adjusted a icon for the relay component
-- removed some hidden port which lay over exisiting ones
-- all ports change now the color depending on the mode (light/dark)
-
-v1.0.0
-
-- inital release
+- Inital forked release
+- Added missing node Weapon Loader
+- Added new nodes for circuit box input and output
+- Added the Is On parameter to the relay
+- Fixed all connectors so they connect from the middle instead of all around the edges
+- Added a library for all wire colors and a basic comment box
+- Added the new activate_out connector to the hatches and doors
+- Added the new on_dock and on_undock connectors to the docking hatch
+- Added the new disable_output connector on the supercapacitor
+- Changed charge_percentage to charge_% on the supercapacitor and battery
+- Changed all signal_<x>_out to signal_<x> on the junction box
+- Set default output=1 and false output=0 on motion detector, smoke detector and water detector 
+- Fixed Modulo and Exponentiation components connectors not connectable
+- Renamed ABS to ABSOLUTE
+- Changed alarm siren default color values to 255,0,0,100
+- Set false output = 0 on AND, OR, XOR, EQUALS, GREATER
+- Reordered parameters on REGEX node
+- Added parameter Output empty capture group on REGEX
