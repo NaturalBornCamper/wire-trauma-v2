@@ -49,7 +49,7 @@
     "title": "Orange wire"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"Comment\" tooltip=\"Comment box\" id=\"2\"&gt;&lt;mxCell style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;opacity=50;strokeColor=#006EAF;fontColor=#ffffff;align=left;portConstraint=none;verticalAlign=top;fontSize=20;rotatable=0;allowArrows=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"410\" height=\"290\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"Comment\" tooltip=\"Comment box\" id=\"2\"&gt;&lt;mxCell style=\"rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;opacity=50;strokeColor=#006EAF;fontColor=#ffffff;align=left;portConstraint=none;verticalAlign=top;fontSize=20;rotatable=0;allowArrows=0;connectable=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"410\" height=\"290\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 410,
     "h": 290,
     "aspect": "fixed",
